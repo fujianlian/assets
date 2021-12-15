@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://weth.io/",
+    "explorer": "https://rinkeby.etherscan.io/token/0x2d51fd37f175984603a7d6c4758b27d09a1b2227",
+    "status": "active",
+    "id": "0x2d51fd37f175984603a7d6c4758b27d09a1b2227"
+}
